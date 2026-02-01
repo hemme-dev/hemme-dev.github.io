@@ -78,17 +78,18 @@ Yes, WeiqiVision contains advertisements that help keep the app free.
 
 We're always happy to receive feedback! You can contact us via email at the address provided in the contacts section.
 
-## Contact
+## Support & Community
 
-For support, questions, or suggestions, you can reach us through the following channels:
+For tutorials, troubleshooting, or to share your suggestions, please connect with us through the following channels:
 
-- **Email**: hemme.dev@gmail.com
-
+- **YouTube**: Watch our step-by-step guides and feature updates at [@hemme-dev](https://www.youtube.com/@hemme-dev).
+- **Reddit**: Join the discussion, ask questions, and engage with the community on [r/WeiqiVision](https://www.reddit.com/r/WeiqiVision).
+- **Email**: For direct technical support or inquiries, reach out to us at hemme.dev@gmail.com.
+  
 ## Download WeiqiVision
 
 - [Android - Google Play Store](https://play.google.com/store/apps/details?id=com.hemme.wqvision)
-- iOS - App Store (coming soon)
-- macOS - Mac App Store (coming soon)
+- [iOS / macOS - Apple App Store](https://apps.apple.com/it/app/weiqivision/id6757639328)
 
 ## Updates
 
